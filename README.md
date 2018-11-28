@@ -1,8 +1,9 @@
 ## NekoMusic v2
 
-This is a NodeJS Discord Bot running the [discord.js](https://discord.js.org) library. 
-It's primary goal is playing music, using playlists from [Amped.fm](https://amped.fm/).
+This is the code for NekoBot, running currently on [Paradise's](https://nanotrasen.se/) SS13 Discord server.
 
+It is a NodeJS Discord Music Bot running the [discord.js](https://discord.js.org) library. 
+It's primary goal is playing music, using playlists from [Amped.fm](https://amped.fm/).
 
 ### Minor notes: 
 
